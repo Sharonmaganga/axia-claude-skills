@@ -1,7 +1,7 @@
 {
   "name": "axia-skills",
-  "version": "1.0.0",
-  "description": "Practical Claude skills from Axia Analytics for African businesses: M-Pesa statement analysis, monthly KPI reports and AI opportunity audits.",
+  "version": "1.1.0",
+  "description": "Practical Claude skills from Axia Analytics for African businesses: monthly KPI reports and AI opportunity audits.",
   "author": { "name": "Axia Analytics", "url": "https://axiaanalytics.com" },
   "homepage": "https://axiaanalytics.com",
   "license": "MIT"
