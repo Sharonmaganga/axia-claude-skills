@@ -23,7 +23,7 @@ This repo has two parts:
 In Claude Code, run:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/axia-claude-skills
+/plugin marketplace add Sharonmaganga/axia-claude-skills
 /plugin install axia-skills@axia-analytics
 ```
 
