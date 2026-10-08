@@ -3,7 +3,7 @@
 Practical [Claude Code](https://claude.com/claude-code) skills for African businesses, from [Axia Analytics](https://axiaanalytics.com).
 
 This repo has two parts:
-1. **Built by Axia.** Two original skills for East African SMEs, SACCOs and finance teams.
+1. **Built by Axia.** Three original skills for East African SMEs, SACCOs and finance teams.
 2. **Recommended skills.** Five third-party skills we've checked and recommend, with install commands that are current as of **8 October 2026**. Axia keeps a copy (fork) of each one on GitHub. The original authors build and maintain them.
 
 > **What is a skill?** A skill is an instruction file (`SKILL.md`) that teaches Claude how to do a specific job well and consistently. Install it once and Claude uses it whenever the task comes up.
@@ -16,6 +16,7 @@ This repo has two parts:
 |---|---|
 | [`monthly-kpi-report`](skills/monthly-kpi-report/SKILL.md) | Builds a one-page monthly management report from your sales, finance or operations data, with KPIs suggested by sector (retail, SACCO, services). |
 | [`ai-opportunity-audit`](skills/ai-opportunity-audit/SKILL.md) | Interviews you about your processes, scores them for automation potential and produces a prioritised AI roadmap. |
+| [`whatsapp-mcp-setup`](skills/whatsapp-mcp-setup/SKILL.md) | Walks a beginner through connecting WhatsApp to Claude Desktop on Windows or Mac, with a [step-by-step guide](skills/whatsapp-mcp-setup/guide.md) and fixed bridge files for the "Client outdated (405)" error. |
 
 ### Install
 
